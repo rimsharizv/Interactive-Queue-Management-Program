@@ -1,5 +1,5 @@
-// Rimsha Rizvi 659249234
-// 211 Project 6 - Using the implementation of an ADT create an interactive program for the user to manage a queue of buzzers.
+// Rimsha Rizvi
+// Project - Using the implementation of an ADT create an interactive program for the user to manage a queue of buzzers.
 
 #include <stdio.h>
 #include <stdlib.h>
