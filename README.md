@@ -1,5 +1,5 @@
 # Interactive-Queue-Management-Program
-Author - Rimsha Rizvi
+Author: Rimsha Rizvi
 
 ## Overview
 This project implements an interactive program for the user to manage a queue of buzzers using an Abstract Data Type (ADT).
@@ -13,8 +13,3 @@ This project implements an interactive program for the user to manage a queue of
 6. sq_seat() - Seats the next customer in line and returns their buzzer ID. Runtime: O(1)
 7. sq_kick_out() - Removes a customer with the given buzzer ID from the queue. Runtime: O(1)
 8. sq_take_bribe() - Moves a customer with the given buzzer ID to the front of the queue. Runtime: O(1)
-
-## Copyright and Plagiarism Notice
-All content in this repository, including code, documentation, and other materials, is the property of Rimsha Rizvi.
-Plagiarism is a serious offense and is strictly prohibited. You may not use, copy, or submit this work as your own. Any instances of plagiarism or unauthorized use will be reported to the relevant academic or professional authorities.
-If you would like to use this work for educational or other non-commercial purposes, please contact the author for permission.
